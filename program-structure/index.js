@@ -38,3 +38,10 @@ console.log(luigisDebt)
 
 let x = 30
 console.log("the value of x is", x)
+
+// Retornando valores
+// side effect
+
+console.log(Math.max(2, 4))
+
+console.log(Math.min(2, 4) + 100)
