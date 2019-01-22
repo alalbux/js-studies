@@ -11,7 +11,7 @@ Chaining the Array map and filter methods
 Create an Array concatAll method
 
 Observable ???
-
+Flattening nested arrays
 Advanced Flattening (reduce) ???
 
 filters arrays
@@ -34,6 +34,8 @@ Determine an Object's Constructor with JavaScripts instanceof Operator
 Create Factory Functions for Object Composition
 Use Polymorphism with Prototype Linked Objects
 Replicate JavaScript Constructor Inheritance with Simple Objects (OLOO)
+
+
 
 
 
