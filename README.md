@@ -10,9 +10,9 @@ https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop
 - Chaining the Array map and filter methods
 - Create an Array concatAll method
 
-- Observable ???
+- Observable https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - Flattening nested arrays
-- Advanced Flattening (reduce) ???
+- Advanced Flattening (reduce) ??? https://ponyfoo.com/articles/tagged/es6-in-depth
 
 - filters arrays
 - Ternary Operator or Conditional validation
