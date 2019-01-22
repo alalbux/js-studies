@@ -18,6 +18,9 @@ https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop
 - Ternary Operator or Conditional validation
 - reduce 
 https://medium.freecodecamp.org/reduce-f47a7da511a9
+https://github.com/trekhleb/javascript-algorithms
+https://www.youtube.com/watch?v=njTh_OwMljA&index=2&t=1s&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+
 
 ### Understanding JavaScript's Prototypal Inheritance
 https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance
